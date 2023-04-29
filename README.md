@@ -38,9 +38,10 @@ Soy un apasionado del desarrollo web y la tecnología en general. Me gradué de 
   }
 };
 ```
-Contactame Aqui : 
+### Contactame Aqui : 
 
-- [Linkedin](https://www.linkedin.com/in/pedro-oscar-pina-739b70223/)
+### - [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pedro-oscar-pina-739b70223/)
+
 
 
 <!--
