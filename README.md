@@ -1,6 +1,6 @@
-                                      !Hey Bienvenido 👋! Soy Pedro Pina 👨🏽‍💻
+                                          !Hey Bienvenido 👋! Soy Pedro Pina 👨🏽‍💻
                                                                  
-                                               Cordoba, Argentina 🌎
+                                                  Cordoba, Argentina 🌎
 
    ![logos](https://user-images.githubusercontent.com/95067274/235322075-783eb209-52a3-44d3-8f8f-0d6aeb5f456f.jpg)
 
