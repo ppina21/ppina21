@@ -1,8 +1,13 @@
-                                          !Hey Bienvenido 👋! Soy Pedro Pina 👨🏽‍💻
+   ##                                                  !Hey Bienvenido 👋! Soy Pedro Pina 👨🏽‍💻
                                                                  
-                                                  Cordoba, Argentina 🌎
+   ###                                                       Cordoba, Argentina 🌎
 
    ![logos](https://user-images.githubusercontent.com/95067274/235322075-783eb209-52a3-44d3-8f8f-0d6aeb5f456f.jpg)
+   
+   
+ ### Sobre mi : 
+Soy un apasionado del desarrollo web y la tecnología en general. Me gradué de la escuela secundaria en 2020 desde entonces he estado explorando el mundo de la    programación y el desarrollo we. Me considero una persona creativa y resolutiva ,siempre estoy buscando aprender más.
+       Soy un gran fan del trabajo en equipo y estoy buscando oportunidades para seguir creciendo en mi carrera. 
 
 ```js
 const ppina21 = {
