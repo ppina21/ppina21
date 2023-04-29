@@ -43,6 +43,8 @@ Soy un apasionado del desarrollo web y la tecnología en general. Me gradué de 
 ### - [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pedro-oscar-pina-739b70223/)
 
 
+[![ppina21's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppina21)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
                                                                
