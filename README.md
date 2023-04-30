@@ -6,7 +6,7 @@
    
    
  ### Sobre mi : 
-Soy un apasionado del desarrollo web y la tecnología en general. Me gradué de la escuela secundaria en 2020 desde entonces he estado explorando el mundo de la    programación y el desarrollo we. Me considero una persona creativa y resolutiva ,siempre estoy buscando aprender más.
+Soy un apasionado del desarrollo web y la tecnología en general. Me gradué de la escuela secundaria en 2020 desde entonces he estado explorando el mundo de la    programación y el desarrollo web. Me considero una persona creativa y resolutiva ,siempre estoy buscando aprender más.
        Soy un gran fan del trabajo en equipo y estoy buscando oportunidades para seguir creciendo en mi carrera. 
 
 
